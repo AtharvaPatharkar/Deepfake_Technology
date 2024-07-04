@@ -2,7 +2,7 @@
 
 This repository contains the materials for my college seminar on Deepfake Technology. The seminar includes a comprehensive PowerPoint presentation discussing various aspects of deepfake technology.
 
-##📂 Contents
+## 📂 Contents
 
 1. **📄 Presentation**:
     - `Deepfake_Technology.pptx`: This PowerPoint presentation covers the following topics:
@@ -22,7 +22,7 @@ This repository contains the materials for my college seminar on Deepfake Techno
       - 📝 Conclusion
       - 📖 References
 
-##🧐 Overview
+## 🧐 Overview
 
 ### What is Deepfake Technology?
 
@@ -40,16 +40,16 @@ Deepfake technology refers to the use of artificial intelligence and machine lea
 - **📝 Conclusion**: Summarizing the key points discussed.
 - **📖 References**: Sources and further reading materials.
 
-##🛠️ How to Use
+## 🛠️ How to Use
 
 1. **View the Presentation**:
     - Download the `Deepfake_Technology.pptx` file and open it using any PowerPoint viewer to go through the slides.
 
-##📁 Repository Structure
+## 📁 Repository Structure
 
 - `Deepfake_Technology.pptx`: PowerPoint presentation on Deepfake Technology.
 
-##📬 Contact
+## 📬 Contact
 
 For any questions or further information, free to contact.
 
