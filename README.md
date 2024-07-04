@@ -28,7 +28,7 @@ This repository contains the materials for my college seminar on Deepfake Techno
 
 Deepfake technology refers to the use of artificial intelligence and machine learning to create realistic but fake media content. This technology has both promising applications and significant risks, making it a critical area of study. In this seminar, we delve into:
 
-- ** 🏷️ Introduction to Deepfake Technology**: Understanding the basics of what deepfakes are.
+🏷️ - ** Introduction to Deepfake Technology**: Understanding the basics of what deepfakes are.
 - ** 📜 History of Deepfake Technology**: How deepfake technology has evolved over time.
 - ** 🔍 Types of Deepfakes**: Different forms of deepfakes, including video, audio, image, and text.
 - ** 🛠️ Tools and Services for Creating Deepfakes**: Software and platforms used to generate deepfakes.
